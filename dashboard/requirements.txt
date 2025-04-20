@@ -1,0 +1,8 @@
+pandas
+requests
+streamlit
+streamlit-option-menu
+plotly
+streamlit-aggrid
+matplotlib
+statsmodels

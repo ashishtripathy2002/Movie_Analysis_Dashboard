@@ -1,0 +1,7 @@
+flask
+flask-restful
+psycopg2-binary
+Flask-SQLAlchemy
+Flask-JWT-Extended
+pandas
+pydantic
